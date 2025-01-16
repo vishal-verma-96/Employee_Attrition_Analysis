@@ -31,5 +31,5 @@ By analyzing the dataset, the dashboard provides actionable insights into employ
 [CSV File](https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og)
 
 ## Connect with Me 🔗
-LinkedIn: [Vishal Verma](https://www.linkedin.com/in/vishalds/)
+LinkedIn: [Vishal Verma](https://www.linkedin.com/in/vishalds/)</br>
 GitHub: [GitHub Profile](https://github.com/vishal-verma-96)
