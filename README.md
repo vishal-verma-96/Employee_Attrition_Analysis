@@ -1,23 +1,16 @@
-# Attrition Analytics Dashboard
-Welcome to my first Power BI Project, the "Attrition Analytics Dashboard", created under the guidance of Rishabh Mishra. This project combines data analysis with interactive visualizations to provide meaningful insights into employee attrition trends.
+# Attrition_Analytics_Dashboard_Power BI
+This project combines data analysis with interactive visualizations to provide meaningful insights into employee attrition trends.
 
-##📊 Key Features
-Interactive Visuals
-
-Explore attrition by education, age, salary slabs, and gender.
-Data-Driven Insights
-
-Identify patterns across job roles, years of service, and salary distribution.
-User-Friendly Design
-
-An intuitive interface tailored for HR teams to make data-driven decisions.
-Real-Time Interaction
-
-Filters and graphs enable actionable insights with just a few clicks.
+📊##Key Features
+- **Interactive Visuals:** Explore attrition by education, age, salary slabs, and gender.
+- **Data-Driven Insights:** Identify patterns across job roles, years of service, and salary distribution.
+- **User-Friendly Design:** An Appealing visuals dashboard created for the company to make data-driven decisions.
+- **Real-Time Interaction:** Filters and graphs enable actionable insights with just a few clicks.
+- 
 📷 Dashboard Screenshots
 Here are some screenshots of the dashboard to showcase its design, interactivity, and insights:
 
-(Insert the images of your dashboard here.)
+
 
 💡 Learnings from This Project
 Crafting dashboards that balance functionality and visual appeal.
